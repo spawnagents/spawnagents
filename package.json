@@ -1,0 +1,30 @@
+{
+  "name": "spawnagents",
+  "version": "0.0.1",
+  "description": "Spawn and control AI agents programmatically.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spawnagents/spawnagents"
+  },
+  "homepage": "https://spawnagents.dev",
+  "bugs": {
+    "url": "https://github.com/spawnagents/spawnagents/issues"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "llm",
+    "autonomous",
+    "mcp",
+    "spawn",
+    "ai-agents",
+    "claude",
+    "openai"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
